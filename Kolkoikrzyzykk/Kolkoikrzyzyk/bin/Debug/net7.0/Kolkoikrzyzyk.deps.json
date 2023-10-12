@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Kolkoikrzyzyk/1.0.0": {
+        "runtime": {
+          "Kolkoikrzyzyk.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kolkoikrzyzyk/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
