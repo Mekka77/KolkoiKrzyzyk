@@ -1,0 +1,15 @@
+/Users/mikolajmackowiak/Documents/GIT/wsb/Kolkoikrzyzyk/Kolkoikrzyzyk/bin/Debug/net7.0/Kolkoikrzyzyk
+/Users/mikolajmackowiak/Documents/GIT/wsb/Kolkoikrzyzyk/Kolkoikrzyzyk/bin/Debug/net7.0/Kolkoikrzyzyk.deps.json
+/Users/mikolajmackowiak/Documents/GIT/wsb/Kolkoikrzyzyk/Kolkoikrzyzyk/bin/Debug/net7.0/Kolkoikrzyzyk.runtimeconfig.json
+/Users/mikolajmackowiak/Documents/GIT/wsb/Kolkoikrzyzyk/Kolkoikrzyzyk/bin/Debug/net7.0/Kolkoikrzyzyk.dll
+/Users/mikolajmackowiak/Documents/GIT/wsb/Kolkoikrzyzyk/Kolkoikrzyzyk/bin/Debug/net7.0/Kolkoikrzyzyk.pdb
+/Users/mikolajmackowiak/Documents/GIT/wsb/Kolkoikrzyzyk/Kolkoikrzyzyk/obj/Debug/net7.0/Kolkoikrzyzyk.csproj.AssemblyReference.cache
+/Users/mikolajmackowiak/Documents/GIT/wsb/Kolkoikrzyzyk/Kolkoikrzyzyk/obj/Debug/net7.0/Kolkoikrzyzyk.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikolajmackowiak/Documents/GIT/wsb/Kolkoikrzyzyk/Kolkoikrzyzyk/obj/Debug/net7.0/Kolkoikrzyzyk.AssemblyInfoInputs.cache
+/Users/mikolajmackowiak/Documents/GIT/wsb/Kolkoikrzyzyk/Kolkoikrzyzyk/obj/Debug/net7.0/Kolkoikrzyzyk.AssemblyInfo.cs
+/Users/mikolajmackowiak/Documents/GIT/wsb/Kolkoikrzyzyk/Kolkoikrzyzyk/obj/Debug/net7.0/Kolkoikrzyzyk.csproj.CoreCompileInputs.cache
+/Users/mikolajmackowiak/Documents/GIT/wsb/Kolkoikrzyzyk/Kolkoikrzyzyk/obj/Debug/net7.0/Kolkoikrzyzyk.dll
+/Users/mikolajmackowiak/Documents/GIT/wsb/Kolkoikrzyzyk/Kolkoikrzyzyk/obj/Debug/net7.0/refint/Kolkoikrzyzyk.dll
+/Users/mikolajmackowiak/Documents/GIT/wsb/Kolkoikrzyzyk/Kolkoikrzyzyk/obj/Debug/net7.0/Kolkoikrzyzyk.pdb
+/Users/mikolajmackowiak/Documents/GIT/wsb/Kolkoikrzyzyk/Kolkoikrzyzyk/obj/Debug/net7.0/Kolkoikrzyzyk.genruntimeconfig.cache
+/Users/mikolajmackowiak/Documents/GIT/wsb/Kolkoikrzyzyk/Kolkoikrzyzyk/obj/Debug/net7.0/ref/Kolkoikrzyzyk.dll
